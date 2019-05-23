@@ -1,3 +1,5 @@
 # hello-world
 
-testing, it is another branch
+My First repository on GitHub
+
+I love :coffee: :pizza:, and :dancer:.
